@@ -21,9 +21,9 @@ El sistema permite administrar información relacionada con personas, profesiona
 
 ---
 
-## 🧩 Componentes Principales
+##  Componentes Principales
 
-### 🔹 Conexión a Base de Datos
+###  Conexión a Base de Datos
 
 - **Conexion.java**
   - Encargado de establecer la conexión con la base de datos.
@@ -31,7 +31,7 @@ El sistema permite administrar información relacionada con personas, profesiona
 
 ---
 
-### 🔹 DAOs (Data Access Object)
+###  DAOs (Data Access Object)
 
 Se encargan de interactuar directamente con la base de datos:
 
@@ -44,11 +44,11 @@ Se encargan de interactuar directamente con la base de datos:
 - **RegistroVacunacionDAO**
   - Registro de vacunas aplicadas.
 
-👉 Ventaja: separación total entre lógica de negocio y acceso a datos.
+ Ventaja: separación total entre lógica de negocio y acceso a datos.
 
 ---
 
-### 🔹 Modelos (Entidades)
+###  Modelos (Entidades)
 
 Representan las tablas en la base de datos:
 
@@ -98,8 +98,6 @@ El sistema permite:
 - IDE (IntelliJ, Eclipse o VS Code)
 
 ---
-
-### 🔹 Pasos
 
 1. Clonar el repositorio:
 
